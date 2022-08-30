@@ -1,2 +1,2 @@
 # XGBMut
-xgbmut
+version 1.0
